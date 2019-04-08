@@ -1,0 +1,26 @@
+{
+  "name": "opspark-anthonygerald",
+  "version": "1.0.0",
+  "description": "lifeislove",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyGerald1026/lodown.git"
+  },
+  "keywords": [
+    "operationspark",
+    "lodown"
+  ],
+  "author": "Gerald Anthony Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyGerald1026/lodown/issues"
+  },
+  "homepage": "https://github.com/AnthonyGerald1026/lodown#readme"
+}
